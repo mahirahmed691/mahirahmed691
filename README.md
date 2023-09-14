@@ -59,7 +59,7 @@
 <br>
 
 ## 🎧 What's Vibin?
-https://data-card-for-spotify.herokuapp.com/card?user_id=mahir-93
-[![Spotify](https://data-card-for-spotify.herokuapp.com/card?user_id=mahir-93)](https://open.spotify.com/user/mahir-93)
 
-https://github.com/edorado93/edorado93/blob/main/spotify.svg
+[![Spotify](https://github.com/edorado93/edorado93/blob/main/spotify.svg)](https://open.spotify.com/user/mahir-93)
+
+
