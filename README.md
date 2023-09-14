@@ -1,4 +1,4 @@
-[![Mahir's GitHub Banner](./assets/banner.png)](https://mahirahmed691.tech)
+[![Mahir's GitHub Banner](hellp.gif)](https://mahirahmed691.tech)
 
 ![](https://komarev.com/ghpvc/?username=mahirahemd691&label=PROFILE+VIEWS)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mahir-ahmed-84a346149/)
