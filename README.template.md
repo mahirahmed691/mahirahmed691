@@ -42,9 +42,7 @@ Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech
 
 ## 💼 Skills
 
-<br>
-
-## Cloud
+### Cloud
 
 ![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7E48BE)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2F99ED)
