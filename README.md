@@ -3,7 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/mahirahmed691/mahirahmed691)](https://www.mahirahmed691.tech/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mahir-ahmed-84a346149/)
 
-`About me`
+`ABOUT ME`
 
 - Name: Mahir
 - My blog: [mahirahmed691.tech](https://mahirahmed691.tech/blog-list)
