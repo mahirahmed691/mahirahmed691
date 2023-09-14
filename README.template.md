@@ -50,4 +50,16 @@ Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech
 ![](https://img.shields.io/badge/GCP-informational?style=flat&logo=gcp&logoColor=white&color=EB493D)
 
 
-</details>
+## 📣 How about an Office quote before you go?
+
+> {office_quote}
+>
+> <p>{office_character}</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
+
+Check back at the top of the hour for a new quote!
+
+
+
+
