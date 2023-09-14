@@ -62,4 +62,7 @@
 
 [![Spotify](https://github.com/edorado93/edorado93/blob/main/spotify.svg)](https://open.spotify.com/user/mahir-93)
 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mahir-93">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mahir-93" alt="Data Card for Spotify">
+</a>
 
