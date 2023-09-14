@@ -11,8 +11,10 @@
 - Software engineer | DevOps | 🇧🇩
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/mahirahmed691"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/devcard.png"> width="100" align="right" alt="Mahir's Dev Card"/></a>
+<a href="https://app.daily.dev/mahirahmed691"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/devcard.png" width="100" align="right" alt="Mahir's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
+
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+DevOps+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
