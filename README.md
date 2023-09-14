@@ -1,5 +1,12 @@
 [![Mahir's GitHub Banner](./assets/banner.png)](https://mahirahmed691.tech)
 
+# About me
+
+- Name: Mahir
+- My blog: [dev.to/jacktt](https://mahirahmed691.tech/blog-list)
+- Email: [tathuan96@gmail.com](mailto:mahirahmed691@gmail.com)
+- Software engineer | DevOps | 🇧🇩
+
 [![Visits Badge](https://badges.pufler.dev/visits/mahirahmed691/mahirahmed691)](https://www.mahirahmed691.tech/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mahir-ahmed-84a346149/)
 
