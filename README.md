@@ -10,6 +10,10 @@
 - Email: [mahirahmed691@gmail.com](mailto:mahirahmed691@gmail.com)
 - Software engineer | DevOps | 🇧🇩
 
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/mahirahmed691><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/devcard.png" width="100" align="right" alt="Mahir Ahmedd's Dev Card"/></a>
+<!-- markdownlint-enable MD033 -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+DevOps+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
 ![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7E48BE)
@@ -17,9 +21,7 @@
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetesr&logoColor=white&color=3971E5)
 ![](https://img.shields.io/badge/GCP-informational?style=flat&logo=gcp&logoColor=white&color=EB493D)
 
-<!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/mahirahmed691><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/devcard.png" width="100" align="right" alt="Mahir Ahmedd's Dev Card"/></a>
-<!-- markdownlint-enable MD033 -->
+
   
 ## Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech/)
 
