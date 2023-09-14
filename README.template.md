@@ -42,7 +42,7 @@ Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=111)
+![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7E48BE)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
