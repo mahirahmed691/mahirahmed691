@@ -5,16 +5,14 @@
 
 `ABOUT ME`
 
-- Name: Mahir
-- My blog: [mahirahmed691.tech](https://mahirahmed691.tech/blog-list)
-- Email: [mahirahmed691@gmail.com](mailto:mahirahmed691@gmail.com)
-- Software engineer | DevOps | 🇧🇩
-
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/mahirahmed691"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/devcard.png" width="100" align="left" alt="Mahir's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
-
+- Name: Mahir
+- My blog: [mahirahmed691.tech](https://mahirahmed691.tech/blog-list)
+- Email: [mahirahmed691@gmail.com](mailto:mahirahmed691@gmail.com)
+- Software engineer | DevOps | 🇧🇩
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+DevOps+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
