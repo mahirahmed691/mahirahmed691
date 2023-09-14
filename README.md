@@ -13,23 +13,16 @@
 
 Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech/)
 
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
 ## 📌 Pinned Repositories
 
 <br>
 
 <a href="https://github.com/mahirahmed691/holidai">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=holidai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/mahirahmed691/puppet">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=puppet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
