@@ -8,3 +8,15 @@ Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech
 
 
 ## 📝 Latest Blog Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
