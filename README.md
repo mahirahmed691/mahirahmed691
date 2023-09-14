@@ -3,8 +3,8 @@
 # About me
 
 - Name: Mahir
-- My blog: [dev.to/jacktt](https://mahirahmed691.tech/blog-list)
-- Email: [tathuan96@gmail.com](mailto:mahirahmed691@gmail.com)
+- My blog: [mahirahmed691.tech](https://mahirahmed691.tech/blog-list)
+- Email: [mahirahmed691@gmail.com](mailto:mahirahmed691@gmail.com)
 - Software engineer | DevOps | 🇧🇩
 
 [![Visits Badge](https://badges.pufler.dev/visits/mahirahmed691/mahirahmed691)](https://www.mahirahmed691.tech/)
