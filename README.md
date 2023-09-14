@@ -28,7 +28,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/mahirahmed691><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/devcard.png" width="200" align="right" alt="Mahir Ahmedd's Dev Card"/></a>
+<a href="https://app.daily.dev/mahirahmed691><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/devcard.png" width="400" align="right" alt="Mahir Ahmedd's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
 ## 📌 Pinned Repositories
