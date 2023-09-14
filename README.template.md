@@ -43,7 +43,6 @@ Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech
 ## 💼 Skills
 
 <br>
-<br>
 
 ## Cloud
 
