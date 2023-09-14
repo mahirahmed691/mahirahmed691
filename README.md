@@ -11,6 +11,11 @@
 - Software engineer | DevOps | 🇧🇩
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+DevOps+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+
+![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7E48BE)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2F99ED)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetesr&logoColor=white&color=3971E5)
+![](https://img.shields.io/badge/GCP-informational?style=flat&logo=gcp&logoColor=white&color=EB493D)
   
 ## Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech/)
 
@@ -50,11 +55,3 @@
 
 [![Spotify](https://github.com/edorado93/edorado93/blob/main/spotify.svg)](https://open.spotify.com/user/mahir-93)
 
-## 💼 Skills
-
-### Cloud
-
-![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7E48BE)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2F99ED)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetesr&logoColor=white&color=3971E5)
-![](https://img.shields.io/badge/GCP-informational?style=flat&logo=gcp&logoColor=white&color=EB493D)
