@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetesr&logoColor=white&color=3971E5)
 ![](https://img.shields.io/badge/GCP-informational?style=flat&logo=gcp&logoColor=white&color=EB493D)
   
-## Want to know more about me? [`Check out my portfolio.](https://mahirahmed691.tech/`)
+## Want to know more about me? `[Check out my portfolio.](https://mahirahmed691.tech/)`
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a Dynamic Github profile with Github Actions](https://sachinmalhotra.medium.com/do-you-have-a-great-github-readme-b8a59b066d02?source=rss-6ca530696214------2)
