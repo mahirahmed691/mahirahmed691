@@ -54,7 +54,7 @@
 
 
 
-`Hanoi, Vietnam - 15/09/2023`
+`Manchester, United - 14/09/2023`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
