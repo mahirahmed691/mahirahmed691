@@ -58,8 +58,6 @@
 
 <br>
 
-## 🎧 What's Vibin?
-
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mahir-93">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mahir-93" alt="Data Card for Spotify">
 </a>
