@@ -52,9 +52,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirahmed691&hide=html,css&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
 </a>
 
-
-
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=mahirahmed691&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Mahir' Github Stats](https://github-readme-stats.vercel.app/api?username=mahirahmed691&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahirahmed691&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
