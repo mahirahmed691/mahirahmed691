@@ -35,8 +35,10 @@
 <br><br>
 
 # Books 📚
-![](Cloud-Agnostic-Cover-Page.png | width=100)
-[Cloud Agnostic.pdf](https://github.com/mahirahmed691/mahirahmed691/files/12629376/Cloud.Agnostic.pdf)
+<!-- markdownlint-disable MD033 -->
+<a href="https://github.com/mahirahmed691/mahirahmed691/files/12629376/Cloud.Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/Cloud-Agonstic-Cover.Page.png" width="200" align="left"/></a>
+<!-- markdownlint-enable MD033 -->
+
 
 
 <br><br>
