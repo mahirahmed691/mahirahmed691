@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://github.com/mahirahmed691/puppet">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=puppet&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6 />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=puppet&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
