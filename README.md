@@ -23,8 +23,8 @@
 ![](https://img.shields.io/badge/GCP-informational?style=flat&logo=gcp&logoColor=white&color=EB493D)
 
 
-</br>  
-## Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech/)]
+<br>  
+## Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a Dynamic Github profile with Github Actions](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
