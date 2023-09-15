@@ -36,9 +36,9 @@
 
 # Books 📚
 <!-- markdownlint-disable MD033 -->
-<a href="https://github.com/mahirahmed691/mahirahmed691/files/12629376/Cloud.Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/Cloud-Agnostic-Cover-Page.png" width="200" align="left"/></a>
+<a href="https://github.com/mahirahmed691/mahirahmed691/files/12629376/Cloud.Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/Cloud-Agnostic-Cover-Page.png" width="200"/></a>
 <!-- markdownlint-enable MD033 -->
-<br><br>
+
 
 <br><br><br><br>
 # 📌 Pinned Repo's
