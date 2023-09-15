@@ -44,7 +44,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=puppet&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
 </a>
 
-## &#x1f4c8; GitHub Stats
+## 📊 &nbsp;Stats
 
 <br>
 
@@ -52,9 +52,11 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirahmed691&hide=html,css&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
 </a>
 
-<a href="https://github.com/mahirahmed691">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mahirahmed691&show_icons=true&line_height=27&count_private=true&title_color=6F4BFF&text_color=a4aacb&icon_color=4AB097&bg_color=0d1116" alt="Mahir's GitHub Stats" />
-</a>
+
+
+![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=mahirahmed691&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahirahmed691&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 <br>
 
@@ -62,9 +64,5 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mahir-93" alt="Data Card for Spotify">
 </a>
 
-## 📊 &nbsp;Stats
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahirahmed691&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
