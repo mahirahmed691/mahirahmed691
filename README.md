@@ -9,7 +9,7 @@
 <a href="https://app.daily.dev/mahirahmed691"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/devcard.png" width="200" align="left" alt="Mahir's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
-- Mahir Ahmed
+  Mahir Ahmed
 - 💼 : [mahirahmed691.tech](https://mahirahmed691.tech/blog-list)
 - 📪 : [mahirahmed691@gmail.com](mailto:mahirahmed691@gmail.com)
 - Software engineer | DevOps |
