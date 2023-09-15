@@ -24,7 +24,8 @@
 
 <br><br><br><br>
 <!-- BLOG-POST-LIST:START -->
-- [Building a Dynamic Github profile with Github Actions](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
+- [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
+- [A Beginner's Guide to Kubernetes: Understanding the Basics](https://mahirahmed691.tech/a-beginners-guide-to-kubernetes-understanding-the-basics)
 
 <!-- BLOG-POST-LIST:END -->
 
