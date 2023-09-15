@@ -40,7 +40,7 @@
 <!-- markdownlint-enable MD033 -->
 
 
-<br><br><br><br>
+<br>
 # 📌 Pinned Repo's
 
 <a href="https://github.com/mahirahmed691/holidai">
