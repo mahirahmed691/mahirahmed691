@@ -26,7 +26,7 @@
 <br>  
 <br> 
 <br> 
-## Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech/)]
+## Want to know more about me? [Check out my portfolio.](https://mahirahmed691.tech/)
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a Dynamic Github profile with Github Actions](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
