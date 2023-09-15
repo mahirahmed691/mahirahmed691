@@ -34,7 +34,7 @@
 - [The Perfect Programming Interview Problem](https://medium.com/free-code-camp/the-perfect-programming-interview-problem-8431cdeab2a7?source=rss-6ca530696214------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 📌 Pinned Repositories
+# 📌 Pinned Repositories
 
 <a href="https://github.com/mahirahmed691/holidai">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=holidai&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
