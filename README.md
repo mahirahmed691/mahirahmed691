@@ -35,8 +35,8 @@
 <br><br>
 
 # Books 📚
-![Cloud Agnostic](Cloud-Agnostic-Cover-Page.png "Cloud Agnostic") | width=100
-- [Cloud Agnostic.pdf](https://github.com/mahirahmed691/mahirahmed691/files/12629376/Cloud.Agnostic.pdf)
+![Cloud Agnostic](Cloud-Agnostic-Cover-Page.png | width=100)
+[Cloud Agnostic.pdf](https://github.com/mahirahmed691/mahirahmed691/files/12629376/Cloud.Agnostic.pdf)
 
 
 <br><br>
