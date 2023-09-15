@@ -32,7 +32,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+<br>
 # 📌 Pinned Repo's
 
 <a href="https://github.com/mahirahmed691/holidai">
