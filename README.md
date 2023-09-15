@@ -24,13 +24,19 @@
 
 
 <br><br>
-# Blogs 📚
+# Blogs 💻
 
 <!-- BLOG-POST-LIST:START -->
 - [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
 - [A Beginner's Guide to Kubernetes: Understanding the Basics](https://mahirahmed691.tech/a-beginners-guide-to-kubernetes-understanding-the-basics)
 
 <!-- BLOG-POST-LIST:END -->
+
+<br><br>
+
+# Books 📚
+- 
+
 
 <br><br>
 # 📌 Pinned Repo's
