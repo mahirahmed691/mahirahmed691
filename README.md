@@ -22,6 +22,8 @@
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetesr&logoColor=white&color=3971E5)
 ![](https://img.shields.io/badge/GCP-informational?style=flat&logo=gcp&logoColor=white&color=EB493D)
 
+# Blogs 📚
+
 <br><br><br><br>
 <!-- BLOG-POST-LIST:START -->
 - [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
