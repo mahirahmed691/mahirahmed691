@@ -28,6 +28,8 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+# Pinned Repo's
+
 <a href="https://github.com/mahirahmed691/holidai">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=holidai&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
 </a>
