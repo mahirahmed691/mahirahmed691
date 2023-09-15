@@ -37,11 +37,11 @@
 # 📌 Pinned Repositories
 
 <a href="https://github.com/mahirahmed691/holidai">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=holidai&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=holidai&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
 </a>
 
 <a href="https://github.com/mahirahmed691/puppet">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=puppet&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=puppet&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
@@ -49,11 +49,11 @@
 <br>
 
 <a href="https://github.com/mahirahmed691">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirahmed691&hide=html,css&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirahmed691&hide=html,css&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
 </a>
 
 <a href="https://github.com/mahirahmed691">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mahirahmed691&show_icons=true&line_height=27&count_private=true&title_color=ce09ec&text_color=a4aacb&icon_color=4AB097&bg_color=0d1116" alt="Mahir's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mahirahmed691&show_icons=true&line_height=27&count_private=true&title_color=6F4BFF&text_color=a4aacb&icon_color=4AB097&bg_color=0d1116" alt="Mahir's GitHub Stats" />
 </a>
 
 <br>
