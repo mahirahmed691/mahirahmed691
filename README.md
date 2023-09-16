@@ -31,7 +31,7 @@
 - [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
 - [A Beginner's Guide to Kubernetes: Understanding the Basics](https://mahirahmed691.tech/a-beginners-guide-to-kubernetes-understanding-the-basics)
 
-  
+
 <!-- BLOG-POST-LIST:START -->
 - [DevOps in FinTech](https://dev.to/mahirahmed691/devops-in-fintech-5eaf)
 <!-- BLOG-POST-LIST:END -->
