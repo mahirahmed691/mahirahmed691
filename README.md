@@ -33,6 +33,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux CMD&#39;s](https://dev.to/mahirahmed691/linux-cmds-135c)
 - [DevOps in FinTech](https://dev.to/mahirahmed691/devops-in-fintech-5eaf)
 <!-- BLOG-POST-LIST:END -->
 
