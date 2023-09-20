@@ -44,8 +44,8 @@
 
 # Books 📚
 <!-- markdownlint-disable MD033 -->
-<a href=""><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud-Agnostic-Cover-Page.png" width="200"/></a>
-<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud%20Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/Cloud-Agnostic-Cover-Page.png" width="202"/></a>
+<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud%20Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud-Agnostic-Cover-Page.png" width="200"/></a>
+<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/The%20Building%20blocks-%20Devops.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Building-Blocks.png" width="202"/></a>
 <!-- markdownlint-enable MD033 -->
 
 <br><br>
