@@ -6,7 +6,7 @@
 # ABOUT ME
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/mahirahmed691"><img src="https://github.com/mahirahmed691/mahirahmed691/assets/blob/main/devcard.png" width="200" align="left" alt="Mahir's Dev Card"/></a>
+<a href="https://app.daily.dev/mahirahmed691"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/devcard.png" width="200" align="left" alt="Mahir's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 
   Mahir Ahmed
@@ -44,8 +44,8 @@
 
 # Books 📚
 <!-- markdownlint-disable MD033 -->
-<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/Cloud%20Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/Building-Blocks.png" width="200"/></a>
-<a href="https://github.com/mahirahmed691/mahirahmed691/files/12629376/Cloud.Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/Cloud-Agnostic-Cover-Page.png" width="202"/></a>
+<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud%20Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/Building-Blocks.png" width="200"/></a>
+<a href="https://github.com/mahirahmed691/mahirahmed691/files/12629376//assets/Cloud.Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/Cloud-Agnostic-Cover-Page.png" width="202"/></a>
 <!-- markdownlint-enable MD033 -->
 
 <br><br>
