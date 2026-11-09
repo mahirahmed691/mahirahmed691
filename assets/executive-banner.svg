@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+<title id="title">Mahir Ahmed — Senior Platform Engineer</title>
+<desc id="desc">Minimal off-white grid design with oversized heading Engineering cloud with clarity, blue technical accents and architectural circles.</desc>
+<defs>
+ <pattern id="grid" width="58" height="58" patternUnits="userSpaceOnUse"><path d="M58 0H0V58" fill="none" stroke="#cfd3d4" stroke-width="1" opacity=".65"/></pattern>
+ <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".85"/><stop offset=".64" stop-color="#eaf0fb" stop-opacity=".32"/><stop offset="1" stop-color="#ffffff" stop-opacity=".25"/></linearGradient>
+ <linearGradient id="fade" x1="0" x2="1"><stop stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity=".64"/></linearGradient>
+</defs>
+<rect width="1400" height="760" fill="#fafafa"/>
+<rect width="1400" height="760" fill="url(#wash)"/>
+<rect width="1400" height="760" fill="url(#grid)"/>
+<g fill="none" stroke="#c4cbd1" stroke-width="1.1" opacity=".75">
+ <circle cx="1243" cy="395" r="285"/><circle cx="1243" cy="395" r="238"/><circle cx="1243" cy="395" r="185"/><circle cx="1243" cy="395" r="137"/>
+</g>
+<circle cx="1243" cy="395" r="5" fill="#5287dc"/><circle cx="1289" cy="115" r="3.5" fill="#131313"/><circle cx="1300" cy="646" r="3" fill="#5287dc"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="105" y="67" font-size="23" font-weight="700" fill="#111111" letter-spacing="-.7">Mahir Ahmed</text>
+ <text x="105" y="92" font-size="15.5" fill="#3d454c">Senior Platform Engineer</text>
+ <circle cx="108" cy="207" r="3.5" fill="#477fcd"/>
+ <text x="122" y="212" fill="#477fcd" font-size="12" font-weight="700" letter-spacing="3.4">CLOUD  /  PLATFORM  /  INFRASTRUCTURE</text>
+ <text x="102" y="330" font-size="104" font-weight="800" letter-spacing="-6.4" fill="#101010">Engineering</text>
+ <text x="102" y="434" font-size="104" font-weight="800" letter-spacing="-6.4" fill="#101010">cloud with</text>
+ <text x="102" y="538" font-size="104" font-style="italic" font-weight="700" letter-spacing="-5.8" fill="#777777">clarity.</text>
+ <text x="105" y="615" font-size="19" font-weight="600" fill="#242424">Secure foundations. Resilient platforms.</text>
+ <text x="105" y="642" font-size="19" font-weight="600" fill="#242424">Infrastructure designed to scale.</text>
+</g>
+<g stroke="#2c76d4" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(105 695)">
+ <path d="M4 16c-1-10 11-15 18-9 5-6 15-3 16 5 9-1 13 11 5 16H11C2 28-1 22 4 16Z" fill="#2c76d4" stroke="none"/>
+ <path d="M55 17h58M119 17h56M182 17h57" stroke-width="1.2" opacity=".52"/>
+ <circle cx="86" cy="17" r="3" fill="#2c76d4" stroke="none"/><circle cx="147" cy="17" r="3" fill="#2c76d4" stroke="none"/><circle cx="210" cy="17" r="3" fill="#2c76d4" stroke="none"/>
+ <g transform="translate(248 1)"><rect x="0" y="0" width="34" height="32" rx="5"/><path d="M8 10h18M8 17h18M8 24h11"/></g>
+ <path d="M292 17h63" stroke-width="1.2" opacity=".52"/>
+ <g transform="translate(365 1)"><circle cx="16" cy="14" r="12"/><path d="m25 23 10 10"/></g>
+</g>
+</svg>
