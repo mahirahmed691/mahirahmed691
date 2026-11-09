@@ -1,157 +1,111 @@
 
+<!--
+  MAHIR AHMED — MINIMAL EXECUTIVE GITHUB PROFILE
+  Required asset: assets/executive-banner.svg
+  No third-party statistics image services are used.
+-->
+
 <div align="center">
 
-[![Mahir's GitHub Banner](https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/hello.gif)](https://mahirahmed691.tech)
+<a href="https://mahirahmed691.tech">
+  <img src="assets/executive-banner.svg" width="100%" alt="Mahir Ahmed — Senior Platform Engineer | Cloud Architecture" />
+</a>
 
-# Hi, I'm Mahir Ahmed 👋
+<br />
 
-### Senior Platform Engineer | Cloud Infrastructure | DevOps
+**Cloud infrastructure. Platform engineering. Reliable delivery.**
 
-*Designing reliable, scalable and secure cloud platforms.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6F4BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahirahmed691.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-ahmed-84a346149/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirahmed691@gmail.com)
-[![DEV.to](https://img.shields.io/badge/DEV.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mahirahmed691)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahirahmed691&label=Profile%20Views&color=6F4BFF&style=flat)
+[Website](https://mahirahmed691.tech) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mahir-ahmed-84a346149/) &nbsp;·&nbsp; [Articles](https://dev.to/mahirahmed691) &nbsp;·&nbsp; [Email](mailto:mahirahmed691@gmail.com)
 
 </div>
 
----
+<br />
 
-## 👨‍💻 About Me
+## Profile
 
-I'm a **Senior Platform Engineer** specialising in cloud infrastructure, platform architecture, automation and DevOps engineering.
+I'm **Mahir Ahmed**, a **Senior Platform Engineer** working across cloud architecture, infrastructure automation and platform engineering.
 
-I focus on designing secure, scalable and resilient cloud environments that empower engineering teams to deliver software efficiently.
+I design and improve cloud foundations that are secure, resilient and practical to operate. My work includes **AWS-to-Google Cloud migration planning**, landing-zone design, IAM, networking, infrastructure pipelines and disaster recovery strategy.
 
-My experience includes working across **AWS, Google Cloud Platform, Kubernetes, Terraform, CI/CD pipelines, cloud migrations and infrastructure automation**.
+I care about clear architecture, maintainable infrastructure as code and making reliable delivery easier for engineering teams.
 
-- ☁️ **Cloud Architecture:** AWS and Google Cloud Platform
-- 🏗️ **Platform Engineering:** Landing zones, networking, IAM and infrastructure design
-- 🔄 **Cloud Migrations:** Migration planning, workload transitions and disaster recovery
-- ⚙️ **DevOps:** CI/CD, Infrastructure as Code and container orchestration
-- 🔐 **Security:** Secure infrastructure, access controls and engineering best practices
-- ✍️ **Writing:** Sharing knowledge through DevOps and cloud engineering articles
-- 🌍 **Beyond Tech:** Travel, technology and cooking
+## Areas of focus
 
----
-
-## 🛠️ Technology Stack
-
-### ☁️ Cloud Platforms
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 🏗️ Infrastructure & Containers
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### ⚙️ Automation & Development
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 🏛️ Engineering Expertise
-
-| Area | Focus |
+| Discipline | Work |
 | :--- | :--- |
-| **Cloud Architecture** | Scalable AWS and GCP infrastructure |
-| **Platform Engineering** | Landing zones, guardrails and shared platform services |
-| **Cloud Migration** | Migration strategies, architecture and workload planning |
-| **Infrastructure as Code** | Reusable, version-controlled Terraform infrastructure |
-| **Containers & Orchestration** | Docker and Kubernetes platforms |
-| **DevOps & CI/CD** | Automated delivery pipelines and engineering workflows |
-| **Cloud Security** | Identity, access management and network architecture |
-| **Reliability & Resilience** | Disaster recovery, availability and operational readiness |
+| **Cloud architecture** | AWS, Google Cloud, landing zones and workload foundations |
+| **Platform engineering** | Shared infrastructure, access patterns and operational standards |
+| **Cloud migration** | AWS-to-GCP planning, migration design and workload transitions |
+| **Infrastructure as code** | Terraform, automation and reusable infrastructure patterns |
+| **Container platforms** | Kubernetes, Docker and workload orchestration |
+| **Delivery & resilience** | CI/CD, networking, IAM, disaster recovery and reliability |
 
----
+<sub>CORE TECHNOLOGIES</sub>
 
-## ✍️ Technical Writing
+`AWS` &nbsp; `Google Cloud` &nbsp; `Terraform` &nbsp; `Kubernetes` &nbsp; `Docker` &nbsp; `Linux` &nbsp; `GitHub Actions` &nbsp; `Bash` &nbsp; `Python`
 
-I share practical guides and perspectives on cloud infrastructure, DevOps, Linux and modern engineering practices.
+## Selected writing
 
-### Featured Articles
+I write about cloud computing, DevOps, infrastructure and software engineering.
 
-- 📖 [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
-- ☸️ [A Beginner's Guide to Kubernetes: Understanding the Basics](https://mahirahmed691.tech/a-beginners-guide-to-kubernetes-understanding-the-basics)
-- ☁️ [Cloud Migration Best Practices: Ensuring a Smooth Transition](https://dev.to/mahirahmed691/cloud-migration-best-practices-ensuring-a-smooth-transition-1d2p)
-- 💻 [DevOps in FinTech](https://dev.to/mahirahmed691/devops-in-fintech-5eaf)
-- 🐧 [Linux Commands](https://dev.to/mahirahmed691/linux-cmds-135c)
-- 🧹 [Best Code Practices and Writing Clean Code](https://dev.to/mahirahmed691/best-code-practices-and-writing-and-clean-code-1a1e)
+| Article | Topic |
+| :--- | :--- |
+| [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide) | DevOps tooling |
+| [A Beginner's Guide to Kubernetes: Understanding the Basics](https://mahirahmed691.tech/a-beginners-guide-to-kubernetes-understanding-the-basics) | Kubernetes |
+| [Cloud Migration Best Practices: Ensuring a Smooth Transition](https://dev.to/mahirahmed691/cloud-migration-best-practices-ensuring-a-smooth-transition-1d2p) | Cloud migration |
+| [DevOps in FinTech](https://dev.to/mahirahmed691/devops-in-fintech-5eaf) | FinTech infrastructure |
+| [Linux Commands](https://dev.to/mahirahmed691/linux-cmds-135c) | Linux |
+| [Best Code Practices and Writing Clean Code](https://dev.to/mahirahmed691/best-code-practices-and-writing-and-clean-code-1a1e) | Engineering practice |
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+## Publications
 
-## 📚 Publications
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="assets/Cloud%20Agnostic.pdf">
+        <img src="assets/Cloud-Agnostic-Cover-Page.png" width="170" alt="Cover of Cloud Agnostic" />
+        <br />
+        <strong>Cloud Agnostic</strong>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="assets/The%20Building%20blocks-%20Devops.pdf">
+        <img src="assets/Building-Blocks.png" width="170" alt="Cover of The Building Blocks of DevOps" />
+        <br />
+        <strong>The Building Blocks of DevOps</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Selected repositories
+
+| Repository | Explore |
+| :--- | :--- |
+| **Holidai** | [View repository](https://github.com/mahirahmed691/holidai) |
+| **Puppet** | [View repository](https://github.com/mahirahmed691/puppet) |
+
+[Explore all public repositories](https://github.com/mahirahmed691?tab=repositories)
+
+## GitHub activity
+
+My contribution history and repository metrics are available directly on GitHub. These are native GitHub pages rather than externally generated statistics cards, so there are no image-service failures or stale snapshots in this README.
+
+[**Contribution activity**](https://github.com/mahirahmed691?tab=overview) &nbsp;·&nbsp; [**Repositories**](https://github.com/mahirahmed691?tab=repositories) &nbsp;·&nbsp; [**Profile overview**](https://github.com/mahirahmed691)
+
+---
 
 <div align="center">
 
-<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud%20Agnostic.pdf">
-  <img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud-Agnostic-Cover-Page.png" width="185" alt="Cloud Agnostic"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/The%20Building%20blocks-%20Devops.pdf">
-  <img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Building-Blocks.png" width="185" alt="The Building Blocks of DevOps"/>
-</a>
+**Let's connect.**
 
-<br/>
+I'm interested in thoughtful discussions about cloud infrastructure, platform architecture and engineering at scale.
 
-*Cloud Agnostic* &nbsp;&nbsp; | &nbsp;&nbsp; *The Building Blocks of DevOps*
+[Website](https://mahirahmed691.tech) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mahir-ahmed-84a346149/) &nbsp;·&nbsp; [Email](mailto:mahirahmed691@gmail.com)
 
-</div>
-
-
----
-
-## 📌 Featured Repositories
-
-### 🚀 Holidai
-[**View Holidai on GitHub**](https://github.com/mahirahmed691/holidai)
-
-### ⚙️ Puppet
-[**View Puppet on GitHub**](https://github.com/mahirahmed691/puppet)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### My GitHub Activity
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-6F4BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahirahmed691)
-
-[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahirahmed691?tab=repositories)
-
-[![Contributions](https://img.shields.io/badge/View-Contributions-326CE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahirahmed691?tab=overview)
-
-</div>
-
----
-
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with engineers working on **cloud infrastructure, platform engineering, automation and cloud-native technologies**.
-
-<div align="center">
-
-[**🌐 Website**](https://mahirahmed691.tech) · [**💼 LinkedIn**](https://www.linkedin.com/in/mahir-ahmed-84a346149/) · [**✍️ DEV.to**](https://dev.to/mahirahmed691) · [**📧 Email**](mailto:mahirahmed691@gmail.com)
-
-<br/>
-
-*Build with purpose. Automate with intention. Engineer for reliability.*
+<sub>Build thoughtfully. Automate deliberately. Engineer for reliability.</sub>
 
 </div>
