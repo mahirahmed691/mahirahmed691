@@ -1,80 +1,163 @@
+
+<div align="center">
+
 [![Mahir's GitHub Banner](https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/hello.gif)](https://mahirahmed691.tech)
 
-![](https://komarev.com/ghpvc/?username=mahirahemd691&label=PROFILE+VIEWS)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mahir-ahmed-84a346149/)
+# Hi, I'm Mahir Ahmed 👋
 
-# ABOUT ME
+### Senior Platform Engineer | Cloud Infrastructure | DevOps
 
-<!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/mahirahmed691"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/devcard.png" width="200" align="left" alt="Mahir's Dev Card"/></a>
-<!-- markdownlint-enable MD033 -->
+*Designing reliable, scalable and secure cloud platforms.*
 
-  Mahir Ahmed
-- 📪 : [mahirahmed691@gmail.com](mailto:mahirahmed691@gmail.com)
-- Software engineer | DevOps |
-  <br>
-  ### 🇧🇩 ˣ 🇬🇧
+[![Portfolio](https://img.shields.io/badge/Portfolio-6F4BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahirahmed691.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-ahmed-84a346149/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirahmed691@gmail.com)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mahirahmed691)
 
+![Profile Views](https://komarev.com/ghpvc/?username=mahirahmed691&label=Profile%20Views&color=6F4BFF&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+DevOps+Engineer;Tech+and+Travel+Blogger;and+a+homemade+chef%3F)](https://git.io/typing-svg)
+</div>
 
-![](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7E48BE)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2F99ED)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetesr&logoColor=white&color=3971E5)
-![](https://img.shields.io/badge/GCP-informational?style=flat&logo=gcp&logoColor=white&color=EB493D)
+---
 
+## 👨‍💻 About Me
 
-<br><br>
-# Blogs 💻
+I'm a **Senior Platform Engineer** specialising in cloud infrastructure, platform architecture, automation and DevOps engineering.
 
-- [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
-- [A Beginner's Guide to Kubernetes: Understanding the Basics](https://mahirahmed691.tech/a-beginners-guide-to-kubernetes-understanding-the-basics)
+I focus on designing secure, scalable and resilient cloud environments that empower engineering teams to deliver software efficiently.
 
+My experience includes working across **AWS, Google Cloud Platform, Kubernetes, Terraform, CI/CD pipelines, cloud migrations and infrastructure automation**.
+
+- ☁️ **Cloud Architecture:** AWS and Google Cloud Platform
+- 🏗️ **Platform Engineering:** Landing zones, networking, IAM and infrastructure design
+- 🔄 **Cloud Migrations:** Migration planning, workload transitions and disaster recovery
+- ⚙️ **DevOps:** CI/CD, Infrastructure as Code and container orchestration
+- 🔐 **Security:** Secure infrastructure, access controls and engineering best practices
+- ✍️ **Writing:** Sharing knowledge through DevOps and cloud engineering articles
+- 🌍 **Beyond Tech:** Travel, technology and cooking
+
+---
+
+## 🛠️ Technology Stack
+
+### ☁️ Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🏗️ Infrastructure & Containers
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### ⚙️ Automation & Development
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🏛️ Engineering Expertise
+
+| Area | Focus |
+| :--- | :--- |
+| **Cloud Architecture** | Scalable AWS and GCP infrastructure |
+| **Platform Engineering** | Landing zones, guardrails and shared platform services |
+| **Cloud Migration** | Migration strategies, architecture and workload planning |
+| **Infrastructure as Code** | Reusable, version-controlled Terraform infrastructure |
+| **Containers & Orchestration** | Docker and Kubernetes platforms |
+| **DevOps & CI/CD** | Automated delivery pipelines and engineering workflows |
+| **Cloud Security** | Identity, access management and network architecture |
+| **Reliability & Resilience** | Disaster recovery, availability and operational readiness |
+
+---
+
+## ✍️ Technical Writing
+
+I share practical guides and perspectives on cloud infrastructure, DevOps, Linux and modern engineering practices.
+
+### Featured Articles
+
+- 📖 [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
+- ☸️ [A Beginner's Guide to Kubernetes: Understanding the Basics](https://mahirahmed691.tech/a-beginners-guide-to-kubernetes-understanding-the-basics)
+- ☁️ [Cloud Migration Best Practices: Ensuring a Smooth Transition](https://dev.to/mahirahmed691/cloud-migration-best-practices-ensuring-a-smooth-transition-1d2p)
+- 💻 [DevOps in FinTech](https://dev.to/mahirahmed691/devops-in-fintech-5eaf)
+- 🐧 [Linux Commands](https://dev.to/mahirahmed691/linux-cmds-135c)
+- 🧹 [Best Code Practices and Writing Clean Code](https://dev.to/mahirahmed691/best-code-practices-and-writing-and-clean-code-1a1e)
 
 <!-- BLOG-POST-LIST:START -->
-- [Best code practices and writing and clean code.](https://dev.to/mahirahmed691/best-code-practices-and-writing-and-clean-code-1a1e)
-- [Cloud Migration Best Practices: Ensuring a Smooth Transition](https://dev.to/mahirahmed691/cloud-migration-best-practices-ensuring-a-smooth-transition-1d2p)
-- [Linux CMD&#39;s](https://dev.to/mahirahmed691/linux-cmds-135c)
-- [DevOps in FinTech](https://dev.to/mahirahmed691/devops-in-fintech-5eaf)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
-<br><br>
+## 📚 Publications
 
-# Books 📚
-<!-- markdownlint-disable MD033 -->
-<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud%20Agnostic.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud-Agnostic-Cover-Page.png" width="200"/></a>
-<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/The%20Building%20blocks-%20Devops.pdf"><img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Building-Blocks.png" width="200"/></a>
-<!-- markdownlint-enable MD033 -->
+<div align="center">
 
-<br><br>
-# 📌 Pinned Repo's
+<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud%20Agnostic.pdf">
+  <img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Cloud-Agnostic-Cover-Page.png" width="185" alt="Cloud Agnostic"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/The%20Building%20blocks-%20Devops.pdf">
+  <img src="https://github.com/mahirahmed691/mahirahmed691/blob/main/assets/Building-Blocks.png" width="185" alt="The Building Blocks of DevOps"/>
+</a>
+
+<br/>
+
+*Cloud Agnostic* &nbsp;&nbsp; | &nbsp;&nbsp; *The Building Blocks of DevOps*
+
+</div>
+
+---
+
+## 📌 Featured Repositories
+
+<div align="center">
 
 <a href="https://github.com/mahirahmed691/holidai">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=holidai&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=holidai&theme=tokyonight&hide_border=true" alt="Holidai Repository"/>
 </a>
 
 <a href="https://github.com/mahirahmed691/puppet">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=puppet&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=puppet&theme=tokyonight&hide_border=true" alt="Puppet Repository"/>
 </a>
 
-## 📊 &nbsp;Stats
+</div>
 
-<br>
+---
 
-<a href="https://github.com/mahirahmed691">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirahmed691&hide=html,css&bg_color=0d1116&title_color=6F4BFF&text_color=a4aacb&icon_color=007ec6" />
-</a>
+## 📊 GitHub Analytics
 
-![Mahir' Github Stats](https://github-readme-stats.vercel.app/api?username=mahirahmed691&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahirahmed691&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+<img src="https://github-readme-stats.vercel.app/api?username=mahirahmed691&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<br>
+<br/>
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=mahir-93">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=mahir-93" alt="Data Card for Spotify">
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirahmed691&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages"/>
 
+<br/>
 
+<img src="https://streak-stats.demolab.com/?user=mahirahmed691&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with engineers working on **cloud infrastructure, platform engineering, automation and cloud-native technologies**.
+
+<div align="center">
+
+[**🌐 Website**](https://mahirahmed691.tech) · [**💼 LinkedIn**](https://www.linkedin.com/in/mahir-ahmed-84a346149/) · [**✍️ DEV.to**](https://dev.to/mahirahmed691) · [**📧 Email**](mailto:mahirahmed691@gmail.com)
+
+<br/>
+
+*Build with purpose. Automate with intention. Engineer for reliability.*
+
+</div>
