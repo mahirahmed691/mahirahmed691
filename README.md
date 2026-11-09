@@ -112,21 +112,16 @@ I share practical guides and perspectives on cloud infrastructure, DevOps, Linux
 
 </div>
 
+
 ---
 
 ## 📌 Featured Repositories
 
-<div align="center">
+### 🚀 Holidai
+[**View Holidai on GitHub**](https://github.com/mahirahmed691/holidai)
 
-<a href="https://github.com/mahirahmed691/holidai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=holidai&theme=tokyonight&hide_border=true" alt="Holidai Repository"/>
-</a>
-
-<a href="https://github.com/mahirahmed691/puppet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahirahmed691&repo=puppet&theme=tokyonight&hide_border=true" alt="Puppet Repository"/>
-</a>
-
-</div>
+### ⚙️ Puppet
+[**View Puppet on GitHub**](https://github.com/mahirahmed691/puppet)
 
 ---
 
@@ -134,19 +129,18 @@ I share practical guides and perspectives on cloud infrastructure, DevOps, Linux
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahirahmed691&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+### My GitHub Activity
 
-<br/>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-6F4BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahirahmed691)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirahmed691&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages"/>
+[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahirahmed691?tab=repositories)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=mahirahmed691&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+[![Contributions](https://img.shields.io/badge/View-Contributions-326CE5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahirahmed691?tab=overview)
 
 </div>
 
 ---
+
 
 ## 🤝 Let's Connect
 
