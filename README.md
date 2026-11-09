@@ -1,112 +1,122 @@
 
-<!--
-  MAHIR AHMED — MINIMAL EXECUTIVE GITHUB PROFILE
-  Required asset: assets/executive-banner.svg
-  No third-party statistics image services are used.
--->
-
 <div align="center">
 
 <a href="https://mahirahmed691.tech">
-  <img src="assets/executive-banner.svg" width="100%" alt="Mahir Ahmed — Senior Platform Engineer | Cloud Architecture" />
+  <img src="assets/executive-banner.svg" alt="Mahir Ahmed — Senior Platform Engineer | Engineering cloud with clarity" width="100%" />
 </a>
 
 <br />
 
-**Cloud infrastructure. Platform engineering. Reliable delivery.**
-
-[Website](https://mahirahmed691.tech) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mahir-ahmed-84a346149/) &nbsp;·&nbsp; [Articles](https://dev.to/mahirahmed691) &nbsp;·&nbsp; [Email](mailto:mahirahmed691@gmail.com)
+[**Website**](https://mahirahmed691.tech) &nbsp; / &nbsp; [**LinkedIn**](https://www.linkedin.com/in/mahir-ahmed-84a346149/) &nbsp; / &nbsp; [**Writing**](https://dev.to/mahirahmed691) &nbsp; / &nbsp; [**Contact**](mailto:mahirahmed691@gmail.com)
 
 </div>
 
 <br />
 
-## Profile
+<sub>01 / PROFILE</sub>
 
-I'm **Mahir Ahmed**, a **Senior Platform Engineer** working across cloud architecture, infrastructure automation and platform engineering.
+## Engineering for the long term.
 
-I design and improve cloud foundations that are secure, resilient and practical to operate. My work includes **AWS-to-Google Cloud migration planning**, landing-zone design, IAM, networking, infrastructure pipelines and disaster recovery strategy.
+I'm **Mahir Ahmed**, a **Senior Platform Engineer** focused on cloud architecture, platform engineering and infrastructure automation.
 
-I care about clear architecture, maintainable infrastructure as code and making reliable delivery easier for engineering teams.
+I work on the foundations that let engineering teams deliver with confidence: cloud landing zones, identity and access, networking, reusable infrastructure, delivery pipelines and disaster recovery. My experience includes leading the design and planning of large-scale **AWS-to-Google Cloud** migrations.
 
-## Areas of focus
+My approach is straightforward: **build secure foundations, remove unnecessary complexity and make reliability an architectural decision.**
 
-| Discipline | Work |
+<br />
+
+<sub>02 / CAPABILITIES</sub>
+
+## What I work on.
+
+| Focus | Practice |
 | :--- | :--- |
-| **Cloud architecture** | AWS, Google Cloud, landing zones and workload foundations |
-| **Platform engineering** | Shared infrastructure, access patterns and operational standards |
-| **Cloud migration** | AWS-to-GCP planning, migration design and workload transitions |
-| **Infrastructure as code** | Terraform, automation and reusable infrastructure patterns |
-| **Container platforms** | Kubernetes, Docker and workload orchestration |
-| **Delivery & resilience** | CI/CD, networking, IAM, disaster recovery and reliability |
+| **Cloud platforms** | AWS · Google Cloud Platform |
+| **Cloud architecture** | Landing zones · IAM · Networking · Guardrails |
+| **Platform engineering** | Shared services · Reusable patterns · Developer enablement |
+| **Cloud migration** | Migration strategy · Workload transitions · DR planning |
+| **Infrastructure as code** | Terraform · Infrastructure automation |
+| **Containers & delivery** | Kubernetes · Docker · CI/CD |
+| **Operations & reliability** | Linux · Resilience · Operational readiness |
 
-<sub>CORE TECHNOLOGIES</sub>
+`AWS` &nbsp; `GCP` &nbsp; `Terraform` &nbsp; `Kubernetes` &nbsp; `Docker` &nbsp; `Linux` &nbsp; `GitHub Actions` &nbsp; `Bash` &nbsp; `Python`
 
-`AWS` &nbsp; `Google Cloud` &nbsp; `Terraform` &nbsp; `Kubernetes` &nbsp; `Docker` &nbsp; `Linux` &nbsp; `GitHub Actions` &nbsp; `Bash` &nbsp; `Python`
+<br />
 
-## Selected writing
+<sub>03 / WRITING</sub>
 
-I write about cloud computing, DevOps, infrastructure and software engineering.
+## Notes from the field.
 
-| Article | Topic |
-| :--- | :--- |
-| [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide) | DevOps tooling |
-| [A Beginner's Guide to Kubernetes: Understanding the Basics](https://mahirahmed691.tech/a-beginners-guide-to-kubernetes-understanding-the-basics) | Kubernetes |
-| [Cloud Migration Best Practices: Ensuring a Smooth Transition](https://dev.to/mahirahmed691/cloud-migration-best-practices-ensuring-a-smooth-transition-1d2p) | Cloud migration |
-| [DevOps in FinTech](https://dev.to/mahirahmed691/devops-in-fintech-5eaf) | FinTech infrastructure |
-| [Linux Commands](https://dev.to/mahirahmed691/linux-cmds-135c) | Linux |
-| [Best Code Practices and Writing Clean Code](https://dev.to/mahirahmed691/best-code-practices-and-writing-and-clean-code-1a1e) | Engineering practice |
+I write about the tools, decisions and engineering principles behind modern infrastructure.
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- **Cloud & migration** — [Cloud Migration Best Practices: Ensuring a Smooth Transition](https://dev.to/mahirahmed691/cloud-migration-best-practices-ensuring-a-smooth-transition-1d2p)
+- **Platform tooling** — [Exploring Essential DevOps Tools: A Comprehensive Guide](https://mahirahmed691.tech/exploring-essential-devops-tools-a-comprehensive-guide)
+- **Kubernetes** — [A Beginner's Guide to Kubernetes: Understanding the Basics](https://mahirahmed691.tech/a-beginners-guide-to-kubernetes-understanding-the-basics)
+- **Financial services** — [DevOps in FinTech](https://dev.to/mahirahmed691/devops-in-fintech-5eaf)
+- **Linux** — [Linux Commands](https://dev.to/mahirahmed691/linux-cmds-135c)
+- **Software craft** — [Best Code Practices and Writing Clean Code](https://dev.to/mahirahmed691/best-code-practices-and-writing-and-clean-code-1a1e)
 
-## Publications
+<br />
+
+<sub>04 / PUBLICATIONS</sub>
+
+## Longer-form thinking.
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" align="center" valign="top">
       <a href="assets/Cloud%20Agnostic.pdf">
-        <img src="assets/Cloud-Agnostic-Cover-Page.png" width="170" alt="Cover of Cloud Agnostic" />
-        <br />
-        <strong>Cloud Agnostic</strong>
+        <img src="assets/Cloud-Agnostic-Cover-Page.png" width="170" alt="Cloud Agnostic book cover" />
       </a>
+      <p><strong>Cloud Agnostic</strong></p>
+      <a href="assets/Cloud%20Agnostic.pdf">Read the publication</a>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" align="center" valign="top">
       <a href="assets/The%20Building%20blocks-%20Devops.pdf">
-        <img src="assets/Building-Blocks.png" width="170" alt="Cover of The Building Blocks of DevOps" />
-        <br />
-        <strong>The Building Blocks of DevOps</strong>
+        <img src="assets/Building-Blocks.png" width="170" alt="The Building Blocks of DevOps book cover" />
       </a>
+      <p><strong>The Building Blocks of DevOps</strong></p>
+      <a href="assets/The%20Building%20blocks-%20Devops.pdf">Read the publication</a>
     </td>
   </tr>
 </table>
 
-## Selected repositories
+<br />
 
-| Repository | Explore |
-| :--- | :--- |
-| **Holidai** | [View repository](https://github.com/mahirahmed691/holidai) |
-| **Puppet** | [View repository](https://github.com/mahirahmed691/puppet) |
+<sub>05 / OPEN SOURCE</sub>
 
-[Explore all public repositories](https://github.com/mahirahmed691?tab=repositories)
+## Selected repositories.
 
-## GitHub activity
+**[Holidai](https://github.com/mahirahmed691/holidai)**  
+View repository ↗
 
-My contribution history and repository metrics are available directly on GitHub. These are native GitHub pages rather than externally generated statistics cards, so there are no image-service failures or stale snapshots in this README.
+**[Puppet](https://github.com/mahirahmed691/puppet)**  
+View repository ↗
 
-[**Contribution activity**](https://github.com/mahirahmed691?tab=overview) &nbsp;·&nbsp; [**Repositories**](https://github.com/mahirahmed691?tab=repositories) &nbsp;·&nbsp; [**Profile overview**](https://github.com/mahirahmed691)
+[Explore all repositories](https://github.com/mahirahmed691?tab=repositories)
+
+<br />
+
+<sub>06 / GITHUB</sub>
+
+## Activity and contributions.
+
+For a live view of my GitHub activity, explore my [contribution history](https://github.com/mahirahmed691?tab=overview), [repositories](https://github.com/mahirahmed691?tab=repositories) and [profile overview](https://github.com/mahirahmed691).
+
+These links use GitHub directly rather than third-party statistics images.
+
+<br />
 
 ---
 
 <div align="center">
 
-**Let's connect.**
+### Good infrastructure is intentional.
 
-I'm interested in thoughtful discussions about cloud infrastructure, platform architecture and engineering at scale.
+Open to conversations about cloud architecture, platform engineering and building dependable systems.
 
-[Website](https://mahirahmed691.tech) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mahir-ahmed-84a346149/) &nbsp;·&nbsp; [Email](mailto:mahirahmed691@gmail.com)
+[Website](https://mahirahmed691.tech) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/mahir-ahmed-84a346149/) &nbsp; · &nbsp; [Email](mailto:mahirahmed691@gmail.com)
 
-<sub>Build thoughtfully. Automate deliberately. Engineer for reliability.</sub>
+<sub>MAHIR AHMED / PLATFORM ENGINEERING</sub>
 
 </div>
-
