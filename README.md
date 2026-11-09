@@ -109,3 +109,4 @@ I'm interested in thoughtful discussions about cloud infrastructure, platform ar
 <sub>Build thoughtfully. Automate deliberately. Engineer for reliability.</sub>
 
 </div>
+
